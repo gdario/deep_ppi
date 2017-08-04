@@ -1,3 +1,6 @@
+# DeepPPI - Refactoring for Keras 2
+
+This code is just a refactoring of the original code associated with the article [DeepPPI: Boosting Prediction of Protein-Protein Interactions with Deep Neural Networks.](https://www.ncbi.nlm.nih.gov/pubmed/28514151) by Du et al, J Chem Inf Model. 2017 Jun 26;57(6):1499-1510. doi: 10.1021/acs.jcim.7b00028. Epub 2017 May 26. The sole purpose is to make the code run with Keras >= 2.0. All the credit for the analysis goes to the authors.
 
 ##DeepPPI
 
